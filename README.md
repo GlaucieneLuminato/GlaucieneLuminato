@@ -6,10 +6,6 @@
 - 😄 Pronouns: Ela/Dela </br></br></br></br>
 
   
-<!---
-GlaucieneLuminato/GlaucieneLuminato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
     
   <div> 
