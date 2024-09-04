@@ -1,8 +1,7 @@
 <h1> Oii ! Eu sou a Glauciene Luminato</h1>
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas.</br>
+- 📚  Cursando Análise e Desenvolvimento de Sistemas.</br>
 - 💻 I’m currently learning: Javascript e React.js.</br>
-- 💞️ I’m looking to collaborate on programa voluntário para desenvolvedores júnior.</br>.      
-- 📫 How to reach me glaucienedesousaluminato@gmail.com </br>
+- 💞️ Minha paixão é ser voluntário para alfabetização de jovens e idosos carentes e ajudá-los a realizar o sonho de ler e escrever.</br>.      
 - 😄 Pronouns: Ela/Dela </br></br></br></br>
 
   
