@@ -1,6 +1,6 @@
 <h1> Oii ! Eu sou a Glauciene Luminato</h1>
 - 👀 I’m interested in desenvolvimento web no momento.</br>
-- 🌱 I’m currently learning: React.</br>
+- 🌱 I’m currently learning: Javascript.</br>
 - 💞️ I’m looking to collaborate on programa voluntário para desenvolvedores júnior.</br>.      
 - 📫 How to reach me glaucienedesousaluminato@gmail.com </br>
 - 😄 Pronouns: Ela/Dela </br></br></br></br>
@@ -20,7 +20,7 @@
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="30" alt="sass logo"  />
      
  <img align="center" alt="Rafa-React" height="30"
  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </br> </br> </br>
