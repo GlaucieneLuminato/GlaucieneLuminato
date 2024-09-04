@@ -1,6 +1,6 @@
 <h1> Oii ! Eu sou a Glauciene Luminato</h1>
 - 📚  Cursando Análise e Desenvolvimento de Sistemas.</br>
-- 💻 Estou aprendendo: Javascript e React.js.</br>
+- 💻 Estou aprendendo: Javascript .</br>
 - 💞️ Sou apaixonada em fazer parte de voluntariados e participar na  alfabetização de jovens e idosos carentes e ajudá-los a realizar o sonho de ler e escrever.</br>    
 - 😄 Pronomes: Ela/Dela </br></br></br></br>
 
@@ -21,11 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="30" align="center" alt="sass logo"  />
      
- <img align="center" alt="Rafa-React" height="30"
- width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </br> </br> </br>
-
-      
-  
+ </br> </br>  
 <div> 
   <a href="https://instagram.com/glauciene_luminato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoglaucienedesousaluminato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
