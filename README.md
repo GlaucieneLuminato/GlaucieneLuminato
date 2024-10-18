@@ -1,6 +1,6 @@
 <h1> Oii ! Eu sou a Glauciene Luminato</h1>
 - 📚  Cursando Análise e Desenvolvimento de Sistemas.</br>
-- 💻 Estou aprendendo: React.js .</br>
+- 💻 Estou aprendendo: React.js e Styled Components.</br>
 - 💞️ Sou apaixonada em fazer parte de voluntariados e participar na  alfabetização de jovens e idosos carentes e ajudá-los a realizar o sonho de ler e escrever.</br>    
 - 😄 Pronomes: Ela/Dela </br></br></br></br>
 
