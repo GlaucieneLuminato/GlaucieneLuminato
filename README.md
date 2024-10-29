@@ -26,7 +26,7 @@
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 <img width="30" height="40" align="center" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />
 
-https://www.flaticon.com/br/icone-gratis/lixador-de-unha_3789889?term=unhas&page=1&position=44&origin=search&related_id=3789889
+a
 
      
  </br> </br>  
