@@ -24,7 +24,7 @@
   <img width="12" />
 
 
-<img width="30" height="40" align="center" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />
+
 
 <a href="https://styled-components.com/">
     <img
@@ -34,7 +34,7 @@
     />
   </a>
 
-a
+
 
      
  </br> </br>  
