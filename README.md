@@ -31,6 +31,7 @@
       src="https://s30.picofile.com/file/8471888342/styled.png"
       width="30"
       height="40"
+      align="center"
     />
   </a>
 
