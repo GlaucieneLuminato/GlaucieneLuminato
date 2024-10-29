@@ -24,7 +24,7 @@
   <img width="12" />
 
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />
+<img width="30" height="40" align="center" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/styled-components-icon.svg" alt="Styled Components Icon" />
 
      
  </br> </br>  
