@@ -45,7 +45,7 @@ Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha histó
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="30" align="center" alt="react logo"/>
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" align="center" width="30" height="40"/>
-
+  <img align="center" alt="nikki-figma" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 
 
