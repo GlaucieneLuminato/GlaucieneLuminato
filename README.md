@@ -1,9 +1,22 @@
-<h1> Oii ! Eu sou a Glauciene Luminato</h1>
-- 📚  Cursando Análise e Desenvolvimento de Sistemas.</br>
-- 💻 Estou aprendendo: React.js e Styled Components.</br>
-- 💞️ Sou apaixonada em fazer parte de voluntariados e participar na  alfabetização de jovens e idosos carentes e ajudá-los a realizar o sonho de ler e escrever.</br>    
-- 😄 Pronomes: Ela/Dela </br></br></br></br>
 
+Olá 👋😃.
+
+Primeiramente fico muito feliz de você ter chego até aqui e, já que você chegou te convido a conhecer um pouco mais sobre mim.
+
+
+🔷 Afinal , quem é a Glauciene ?
+
+Atualmente estou cursando Análise e Desenvolvimento de sistemas para que num futuro próximo possa trabalhar na área de tecnologia como Desenvolvedora Front End .
+
+
+ Desenvolvedora Front-End e Educadora
+
+ Depois de uma década como auxiliar de produção, eu estava pronta para um novo desafio. A transição para desenvolvedora front-end não foi apenas uma mudança de carreira, mas uma oportunidade de transformar vidas. Hoje, combino minha paixão por tecnologia com o desejo de educar, voluntariando-me em projetos de alfabetização para crianças e adultos. Meu percurso começou com cursos online e participação em comunidades de desenvolvimento. Aprender a codificar foi um desafio, mas também uma revelação. A cada linha de código, eu sentia-me mais confiante. A transição para desenvolvedora front-end foi possível graças à dedicação com estudo constante e prática, também a rede de apoio como comunidades e mentorias e resiliência para superar obstáculos e aprender com erros. Enquanto trabalhava na produção aplicava minhas habilidades para o trabalho voluntário em alfabetização ajudando pessoas a conquistar a leitura e escrita. percebi que aprender a ensinar é aprender duas vezes. Meditando um pouco mais sobre essa turma que alfabetizava senti que nunca é tarde uma mudança de carreira é possível em qualquer idade. 
+Educação é poder compartilhar conhecimento, é transformador. 
+Tecnologia pode incluir acessibilidade e igualdade.
+Minha jornada prova que é possível reinventar-se. 
+Quero inspirar outros a acreditar em si não importa a idade ou experiência, a também buscarem novos desafios, crescimento pessoal e profissional e a compartilhar conhecimento, educar e transformar. 
+Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha história é um testemunho de que transição de carreira pode ser um caminho para o crescimento pessoal e profissional, e um meio de fazer a diferença no mundo.
   
 
     
