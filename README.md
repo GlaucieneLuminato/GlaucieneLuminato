@@ -27,6 +27,7 @@ Quero inspirar outros a acreditar em si não importa a idade ou experiência, a 
 
 Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha história é um testemunho de que transição de carreira pode ser um caminho para o crescimento pessoal e profissional, e um meio de fazer a diferença no mundo.
   
+![148c44c2f48596a7ddedecf56211c54a](https://github.com/user-attachments/assets/86dbf1ae-9022-4c56-91ba-bbfd39b5f03e)
 
     
   <div> 
