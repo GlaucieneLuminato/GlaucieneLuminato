@@ -1,5 +1,6 @@
 
-Olá 👋😃.
+Olá ![hand](https://github.com/user-attachments/assets/681efe58-032b-4254-b7d1-2c6265139c86)
+😃.
 
 Primeiramente fico muito feliz de você ter chego até aqui e, já que você chegou te convido a conhecer um pouco mais sobre mim.
 
