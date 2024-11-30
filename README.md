@@ -1,5 +1,5 @@
 
-Olá<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+Olá!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 Primeiramente fico muito feliz de você ter chego até aqui e, já que você chegou te convido a conhecer um pouco mais sobre mim.
 
