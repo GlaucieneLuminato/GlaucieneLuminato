@@ -26,8 +26,8 @@ Minha jornada prova que é possível reinventar-se.
 Quero inspirar outros a acreditar em si não importa a idade ou experiência, a também buscarem novos desafios, crescimento pessoal e profissional e a compartilhar conhecimento, educar e transformar. 
 
 Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha história é um testemunho de que transição de carreira pode ser um caminho para o crescimento pessoal e profissional, e um meio de fazer a diferença no mundo.
-  
-![148c44c2f48596a7ddedecf56211c54a](https://github.com/user-attachments/assets/86dbf1ae-9022-4c56-91ba-bbfd39b5f03e)
+ ![d85d4581632bcf7f14a4bab4914f5d1e](https://github.com/user-attachments/assets/b4c02833-527b-4734-93be-26856969fde8)
+
 
     
   <div> 
