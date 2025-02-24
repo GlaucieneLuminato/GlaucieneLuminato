@@ -47,8 +47,7 @@ Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha histó
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" align="center" width="30" height="40"/>
   <img align="center" alt="nikki-figma" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<img align="center" alt="python" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
 <a href="https://styled-components.com/">
