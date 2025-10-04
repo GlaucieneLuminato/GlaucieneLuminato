@@ -1,31 +1,18 @@
 
 Olá!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Primeiramente fico muito feliz de você ter chego até aqui e, já que você chegou te convido a conhecer um pouco mais sobre mim.
+Minha trajetória começou na marcenaria, onde aprendi sobre precisão, lógica e construção — habilidades que hoje aplico de forma diferente, mas com o mesmo propósito: dar forma a algo que faça sentido e gere impacto.
 
+Na área de Análise de Dados, encontrei um novo modo de criar. Cada métrica, gráfico e insight é como montar uma peça que se encaixa para revelar algo maior.
+Atuo com Power BI, Python, SQL, Excel e ferramentas de ETL/ELT, desenvolvendo dashboards e análises que tornam os dados mais claros, estratégicos e acessíveis.
 
-🔷 Afinal , quem é a Glauciene ?
+Tenho me aprofundado em temas como pipelines de dados, Information Value e análise de p-valor, além de desenvolver projetos práticos que integram tecnologia e visualização de dados.
 
-Atualmente estou cursando Análise e Desenvolvimento de sistemas para que num futuro próximo possa trabalhar na área de tecnologia como Desenvolvedora Front End .
+Sou movida por curiosidade, aprendizado contínuo e pela vontade de traduzir números em histórias que impulsionam decisões.
+Acredito que a análise de dados é uma ponte entre o raciocínio lógico e a sensibilidade de compreender o que realmente importa.
 
-
- Desenvolvedora Front-End e Educadora
-
- Depois de uma década como auxiliar de produção, eu estava pronta para um novo desafio. A transição para desenvolvedora front-end não foi apenas uma mudança de carreira, mas uma oportunidade de transformar vidas. 
- 
- Hoje, combino minha paixão por tecnologia com o desejo de educar, voluntariando-me em projetos de alfabetização para crianças e adultos. Meu percurso começou com cursos online e participação em comunidades de desenvolvimento.
- 
- Aprender a codificar foi um desafio, mas também uma revelação. A cada linha de código, eu sentia-me mais confiante. A transição para desenvolvedora front-end foi possível graças à dedicação com estudo constante e prática, também a rede de apoio como comunidades e mentorias e resiliência para superar obstáculos e aprender com erros.
- 
- Enquanto trabalhava na produção aplicava minhas habilidades para o trabalho voluntário em alfabetização ajudando pessoas a conquistar a leitura e escrita. percebi que aprender a ensinar é aprender duas vezes. Meditando um pouco mais sobre essa turma que alfabetizava senti que nunca é tarde uma mudança de carreira é possível em qualquer idade. 
-Educação é poder compartilhar conhecimento, é transformador. 
-
-Tecnologia pode incluir acessibilidade e igualdade.
-Minha jornada prova que é possível reinventar-se. 
-
-Quero inspirar outros a acreditar em si não importa a idade ou experiência, a também buscarem novos desafios, crescimento pessoal e profissional e a compartilhar conhecimento, educar e transformar. 
-
-Hoje, sou desenvolvedora front-end, educadora e agente de mudança. Minha história é um testemunho de que transição de carreira pode ser um caminho para o crescimento pessoal e profissional, e um meio de fazer a diferença no mundo.
+📩 Vamos conectar?
+glaucienedesousaluminato@gmail.com
  ![d85d4581632bcf7f14a4bab4914f5d1e](https://github.com/user-attachments/assets/b4c02833-527b-4734-93be-26856969fde8)
 
 
