@@ -12,7 +12,7 @@ Sou movida por curiosidade, aprendizado contínuo e pela vontade de traduzir nú
 Acredito que a análise de dados é uma ponte entre o raciocínio lógico e a sensibilidade de compreender o que realmente importa.
 
 📩 Vamos conectar?
-glaucienedesousaluminato@gmail.com
+glaucienedesousaluminato@gmail.com<br/>
  ![d85d4581632bcf7f14a4bab4914f5d1e](https://github.com/user-attachments/assets/b4c02833-527b-4734-93be-26856969fde8)
 
 
