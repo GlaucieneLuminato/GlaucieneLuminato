@@ -1,7 +1,7 @@
 
 Olá!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Minha trajetória começou na marcenaria, onde aprendi sobre precisão, lógica e construção — habilidades que hoje aplico de forma diferente, mas com o mesmo propósito: dar forma a algo que faça sentido e gere impacto.
+Minha trajetória começou na marcenaria, onde aprendi sobre precisão, lógica e construção, habilidades que hoje aplico de forma diferente, mas com o mesmo propósito: dar forma a algo que faça sentido e gere impacto.
 
 Na área de Análise de Dados, encontrei um novo modo de criar. Cada métrica, gráfico e insight é como montar uma peça que se encaixa para revelar algo maior.
 Atuo com Power BI, Python, SQL, Excel e ferramentas de ETL/ELT, desenvolvendo dashboards e análises que tornam os dados mais claros, estratégicos e acessíveis.
