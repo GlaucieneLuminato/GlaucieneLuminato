@@ -1,18 +1,24 @@
 
 Olá!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Minha trajetória começou na marcenaria, onde aprendi sobre precisão, lógica e construção, habilidades que hoje aplico de forma diferente, mas com o mesmo propósito: dar forma a algo que faça sentido e gere impacto.
+👩‍💻 Olá, eu sou a Glauciene!
 
-Na área de Análise de Dados, encontrei um novo modo de criar. Cada métrica, gráfico e insight é como montar uma peça que se encaixa para revelar algo maior.
-Atuo com Power BI, Python, SQL, Excel e ferramentas de ETL/ELT, desenvolvendo dashboards e análises que tornam os dados mais claros, estratégicos e acessíveis.
+> Bem-vindo(a) ao meu perfil, onde a paixão por aprender se transforma em código.
 
-Tenho me aprofundado em temas como pipelines de dados, Information Value e análise de p-valor, além de desenvolver projetos práticos que integram tecnologia e visualização de dados.
 
-Sou movida por curiosidade, aprendizado contínuo e pela vontade de traduzir números em histórias que impulsionam decisões.
-Acredito que a análise de dados é uma ponte entre o raciocínio lógico e a sensibilidade de compreender o que realmente importa.
+✨ Sobre mim
 
-📩 Vamos conectar?
-glaucienedesousaluminato@gmail.com<br/>
+Programar, para mim, é uma forma de expressão.
+
+Assim como um artista utiliza cores, formas e texturas para dar vida a uma obra, eu utilizo o código para transformar ideias em algo concreto, funcional e significativo. Cada linha escrita carrega intenção, aprendizado e evolução.
+
+Não vejo o código apenas como uma ferramenta técnica, mas como um meio de criar, resolver problemas e contar histórias por meio da lógica e da criatividade. Gosto de explorar possibilidades, experimentar soluções e construir experiências que façam sentido no mundo real.
+
+Este espaço é um reflexo do meu processo: estudos, experimentações, erros, acertos e projetos que representam minha jornada na tecnologia.
+
+
+
+
  ![d85d4581632bcf7f14a4bab4914f5d1e](https://github.com/user-attachments/assets/b4c02833-527b-4734-93be-26856969fde8)
 
 
