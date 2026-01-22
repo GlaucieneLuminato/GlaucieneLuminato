@@ -1,6 +1,6 @@
 👩‍💻 Olá, eu sou a Glauciene!
 
-> Bem-vindo(a) ao meu perfil, onde a paixão por aprender se transforma em código.
+> Bem-vindo ao meu perfil, onde a paixão por aprender se transforma em código.
 
 
 Programar, para mim, é uma forma de expressão.
