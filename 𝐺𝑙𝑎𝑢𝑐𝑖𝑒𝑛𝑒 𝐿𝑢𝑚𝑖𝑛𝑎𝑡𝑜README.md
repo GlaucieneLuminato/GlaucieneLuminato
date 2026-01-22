@@ -1,12 +1,9 @@
 
-Olá!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+👩‍💻 Olá, eu sou a Glauciene!<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-👩‍💻 Olá, eu sou a Glauciene!
 
 > Bem-vindo(a) ao meu perfil, onde a paixão por aprender se transforma em código.
 
-
-✨ Sobre mim
 
 Programar, para mim, é uma forma de expressão.
 
