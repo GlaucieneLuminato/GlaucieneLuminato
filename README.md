@@ -1,5 +1,8 @@
 👩‍💻 Olá, eu sou a Glauciene!
 
+<img width="900" height="500" alt="QuemSouEu github" src="https://github.com/user-attachments/assets/27297a54-d163-4528-8384-e58287ef47c9" />
+
+
 > Bem-vindo ao meu perfil, onde a paixão por aprender se transforma em código.
 
 
